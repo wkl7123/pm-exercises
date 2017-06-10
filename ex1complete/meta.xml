@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <module>
-  <id>example</id>
-  <name>Extensions SDK Example</name>
+  <id>example1</id>
+  <name>Example1</name>
   <description>This extension is an example extension with UI samples.</description>
   <version>1.5</version>
   <release>1</release>
