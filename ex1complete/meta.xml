@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <module>
-  <id>example1</id>
+  <id>example</id>
   <name>Example1</name>
   <description>This extension is an example extension with UI samples.</description>
   <version>1.5</version>
